@@ -1,4 +1,4 @@
-# Hetzner Debian Installer
+# Hetzner Debian Installer (Youtrack version)
 
 This repository contains a Bash script that automatically installs a minimal Debian operating system on your Hetzner dedicated server directly from **Rescue Mode**.
 
